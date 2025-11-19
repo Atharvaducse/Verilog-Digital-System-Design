@@ -1,1 +1,1 @@
-# Verilog-Digital-System-Design
+This project includes Verilog HDL codes along with their simulations. All modules were developed and verified using Xilinx Vivado. The aim of the work is to learn digital logic design principles and validate each circuit through waveform analysis.# Verilog-Digital-System-Design
